@@ -1,6 +1,6 @@
 
 /*
- *     Smart_Home_05_01feb.c
+ *     Smart_Home_05_01feb.ino
  *
  *    Created on: Feb 1, 2022
  *      Author: Abdelrhman Salah Moghazy
